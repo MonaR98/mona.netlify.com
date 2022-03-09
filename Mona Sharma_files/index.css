@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Caveat&family=Licorice&family=Moon+Dance&family=The+Nautigal:wght@400;700&family=Vujahday+Script&display=swap');
+
+body{
+    background-color:rgba(76, 0, 130, 0.486);
+    color: azure;
+    height:100vh;
+    font-family:'Amatic SC';
+    
+}
+
+.welcome_msg{
+    font-family: 'Moon Dance';
+}
+#profile_pic{
+    border-radius: 50%;
+    align-content: center;
+}
+.intro{
+    color: azure;
+}

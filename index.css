@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Hubballi&family=Lobster&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    
+    margin:0;
+    
+}
+.site-header{
+    background-color:rgba(137, 12, 226, 0.603);
+    color: azure;
+    height:100vh;
+    font-family:'Dancing Script';
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+
+}
+.site-header-content{
+    margin:10px;
+}
+#profile-pic{
+    margin-top:10px;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    box-shadow: rgb(76, 0, 130) 2px 5px 5px;
+
+}
